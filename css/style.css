@@ -1,0 +1,27 @@
+#header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+#header {
+  background-color: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(2px);
+  padding: 2px 0 2px 0;
+}
+
+#features {
+  padding-top: 2rem;
+}
+
+#download {
+  padding-top: 5rem;
+}
+
+#faq {
+  padding-top: 5rem;
+}
+/* #menu {
+  background-color: #fff;
+  backdrop-filter: blur(2px);
+} */
